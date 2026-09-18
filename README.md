@@ -3,6 +3,7 @@ A collection of useful, small, and handy Python scripts designed to automate eve
 
 ```
 /lubuntu/ ---> Scripts only for lubuntu
+/security/ ---> security scripts ( Encoders, Decoders ...)
 README.md ---> README 
 LICENCE ---> MIT LICENCE
 ```
